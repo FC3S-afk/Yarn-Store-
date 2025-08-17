@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Yarn Store - Get your favorite yarn at 50% off!" />
   <title>Yarn Store</title>
   <style>
     body {
@@ -76,7 +78,8 @@
 <body>
 
   <header>
-    <img src="Y.png" alt="Yarn Store Logo" />
+    <!-- Replace with correct path or hosted URL -->
+    <img src="assets/Y.png" alt="Yarn Store Logo" />
     <h1>Yarn Store</h1>
     <nav>
       <a href="#home">Home</a> | 
@@ -89,7 +92,7 @@
   <main>
     <section id="home">
       <h2>Yarn on Sale!</h2>
-      <p>- We have velvet yarn, chunky yarn, milk cotton, and acrylic yarn for 50% off today!<br /></p>
+      <p>- We have velvet yarn, chunky yarn, milk cotton, and acrylic yarn for 50% off today!</p>
       <p><i>Enjoy browsing!</i></p>
       <img 
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Yarn_at_Folklife_-_Stierch.jpg/1280px-Yarn_at_Folklife_-_Stierch.jpg" 
@@ -124,29 +127,3 @@
             <td>red, pink, dark blue, baby blue, light green, orange, dark red</td>
           </tr>
           <tr>
-            <td>Acrylic Yarn</td>
-            <td>₱99</td>
-            <td>red, pink, dark blue, baby blue, light green, orange, dark red</td>
-          </tr>
-        </tbody>
-      </table>
-    </section>
-
-    <section id="contact">
-      <h2>Contact Us</h2>
-      <p>Email: <b>YarnStore@gmail.com</b></p>
-      <p>Phone: <b>0825000012</b></p>
-    </section>
-
-    <section id="shipping">
-      <h2>Shipping Info</h2>
-      <p>We offer nationwide shipping with reliable and fast delivery options.</p>
-    </section>
-  </main>
-
-  <footer>
-    <p>© 2025 The Yarn Store</p>
-  </footer>
-
-</body>
-</html>
