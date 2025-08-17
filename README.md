@@ -78,8 +78,8 @@
 <body>
 
   <header>
-    <!-- Replace with correct path or hosted URL -->
-    <img src="assets/Y.png" alt="Yarn Store Logo" />
+    <!-- Replace with your own image path or URL -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Yarn_icon.png/240px-Yarn_icon.png" alt="Yarn Store Logo" />
     <h1>Yarn Store</h1>
     <nav>
       <a href="#home">Home</a> | 
@@ -107,7 +107,7 @@
           <tr>
             <th>Item</th>
             <th>Sale Price (₱)</th>
-            <th>Available colors</th>
+            <th>Available Colors</th>
           </tr>
         </thead>
         <tbody>
@@ -127,3 +127,29 @@
             <td>red, pink, dark blue, baby blue, light green, orange, dark red</td>
           </tr>
           <tr>
+            <td>Acrylic Yarn</td>
+            <td>₱99</td>
+            <td>red, pink, dark blue, baby blue, light green, orange, dark red</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Email: <b>YarnStore@gmail.com</b></p>
+      <p>Phone: <b>0825000012</b></p>
+    </section>
+
+    <section id="shipping">
+      <h2>Shipping Info</h2>
+      <p>We offer nationwide shipping with reliable and fast delivery options.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 The Yarn Store</p>
+  </footer>
+
+</body>
+</html>
